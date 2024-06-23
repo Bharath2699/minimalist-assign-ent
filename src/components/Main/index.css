@@ -1,0 +1,57 @@
+main{
+    height: 95%;
+    width: 100%;
+}
+
+.banner-section{
+ height: 420px;
+ width: 100%;
+ background-image: url("https://res.cloudinary.com/ds6o1m3db/image/upload/v1719046530/Frame_6_jtlz3g.png");
+}
+
+.banner-content{
+    margin-left: 20px;
+    margin-top: 75px;
+}
+
+.banner-heading{
+    color: white;
+}
+
+.banner-button{
+    color: red;
+    height: 35px;
+    width: 150px;
+    border-radius: 2px;
+    cursor: pointer;
+    font-size: 15px;
+    border-color: white;
+}
+
+.about-title-section{
+    display: flex;
+    align-items: center;
+}
+
+.line{
+    border: 3px solid #F27121;
+    width: 35%;
+}
+
+.full-line{
+    border: 3px solid #F27121;
+    width: 95%;
+}
+
+.about-content{
+    width: 100%;
+    font-size: 20px;
+    text-align: center;
+    line-height: 31.5px;
+}
+
+.products-field{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
